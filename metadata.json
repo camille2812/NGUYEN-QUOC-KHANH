@@ -1,0 +1,7 @@
+{
+  "name": "Battery Pro Manager",
+  "description": "A comprehensive battery business management demo with specialized views for Admins and Technicians (KTV), featuring inventory tracking, job dispatching, and mobile-first payment workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
